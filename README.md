@@ -1,1 +1,2 @@
-# README.md
+## ABOUT ME
+Hi, My name is Parker and I am currently a student at WGU studying Cybersecurity and Information Assurance. I work as a Help Desk/Specialist 2 at 911IT. I've spent the past 5 years learning as much as I can about cybersecurity and how we protect the information that we put out on the web. I love challenges, helping people understand, and  making sure I apply what I've learned to help the company I'm at become better. 
